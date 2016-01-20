@@ -1,0 +1,5 @@
+name: Metin2Core
+main: pl.kruczekdev.mt2core.core.Core
+author: KruczekDev
+version: 1.0
+description: Core for Metin2 server in Minecraft.
